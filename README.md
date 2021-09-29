@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ktipps
+- 👀 I’m interested in mixed methods research and human-centered design.
+- 🌱 I’m currently learning Human-Computer Interaction at Carnegie Mellon University.
+- 📫 Reach me at ktippins@andrew.cmu.edu
